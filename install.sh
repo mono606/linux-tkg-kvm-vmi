@@ -1,4 +1,4 @@
-#test!/bin/bash
+##test!/bin/bash
 
 # If current run is not using 'script' for logging, do it
 if [ -z "$SCRIPT" ]; then
